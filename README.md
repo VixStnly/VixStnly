@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad rivaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad rivaldi" height="30" width="40" /></a>
-<a href="https://fb.com/vixstanley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vixstanley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-rivaldi-a642632a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad rivaldi" height="30" width="40" /></a>
+<a href="https://fb.com/vix stanley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vixstanley" height="30" width="40" /></a>
 <a href="https://instagram.com/rvldii_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rvldii_1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vixstanleyproject" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vixstanleyproject" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@vixstanleyproject" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vixstanleyproject" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
