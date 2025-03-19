@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vixstnly" alt="vixstnly" /></a> </p>
 
-- 🔭 I’m currently working on [BOT TELEGRAM](https://github.com/VixStnly/Bot-Telegram_play-lagu-nodejs.git)
+- 🔭 I’m currently working on [Website PKBM](https://github.com/VixStnly/ujikom-pkbm)
 
 - 🌱 I’m currently learning **configuring api with telegram bot and whatsapp , then I'm learning reactjs and laravel**
 
